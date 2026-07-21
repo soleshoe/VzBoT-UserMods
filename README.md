@@ -88,5 +88,6 @@ like so:
 | MadduxVape | [Vz330_Duet_Config](./MadduxVape) | Vz330 AWD Config for Duett board| ✔️ |  ✖️ | :green_heart: |
 | zxzimeng  | [12mm rod aligner](./zxzimeng/12mm_aligner/) | 12mm Z Rod Aligner  | ✖️ |  ✔️ | :green_heart: |
 | Lobod     | [VzHextrudORT Optical Filament Sensor](./Lobod/VzHextrudORT_Filament-Sensor/) | Optical Filament sensor for printed VzHextrudORT | ✔️ | ✔️ | :heart: |
+| Mikoga92  | [Triple Z Axis mod without linear rails](./Mikoga92/triple_z_axis_no_rails/)  |  Cheap triple z with much stock hardware used  | ✔️ | ✖️ | :blue_heart: |
 
 <sub>Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)</sub>
