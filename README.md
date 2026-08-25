@@ -83,6 +83,7 @@ like so:
 |            | [2WD_2_COLOR_SCREW_PACK](./RODAM_3D/2WD_2_COLOR_SCREW_PACK/) | 2 color Idler with mod for screw kit  | ✖️ |  ✔️ | :green_heart: |
 | SFINAE     | [Rapido HF mount](./SFINAE/Rapido_HF_30mm_fan) | Rapido HF mount for 30mm fan | ✔️ | ✔️ | :green_heart: |
 | Skysi      | [Beefy X-Endstop](./Skysi/Beefy%20X-Endstop) | Beefed up Enstop for X | ✔️ | ✔️ | :green_heart: |
+| soleshoe   | [Trihorn BD-Sensor](./soleshoe/TRIHORN%20BD-SENSOR) | Trihorn BD-Sensor adapter | ✔️ | ✔️ | :green_heart: |
 | SSerpente  | [Klicky probe](./SSerpente/Klicky%20probe%20Vzbot) | Klicky probe mount | ✔️ | ✔️ | :green_heart: |
 | treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame | ✔️ |  ✖️ | :green_heart: |
 | MadduxVape | [Vz330_Duet_Config](./MadduxVape) | Vz330 AWD Config for Duett board| ✔️ |  ✖️ | :green_heart: |
